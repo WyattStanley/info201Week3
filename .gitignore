@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.bak
+*.Rproj 
+.Ruserdata 
+.RData 
+.DS_Store 
+*~
+# huge files 
+# secret/private files 
+xxx
